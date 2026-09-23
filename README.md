@@ -1,172 +1,79 @@
-# Flávio Souza Barros 🚀
+# Flávio Souza Barros
 
-> **Construtor de Sistemas | Acelerador de Inovação | Developer Full-Stack**  
-> Transformando problemas em código. Dados em decisões. Ideias em produtos que geram ROI.
+**Engineering × AI × Automation × Project Systems**
 
----
+I build systems that turn operational problems into structured workflows, decision tools, and automation with explicit evidence, review, and human control.
 
-## O Problema Que Resolvo
+My current work sits at the intersection of engineering, project execution, AI-assisted decision systems, and software automation.
 
-Empresas querem IA, mas:
-- ❌ Precisam de 6 meses pra uma solução viável
-- ❌ Investem em "projetos pilotos" que nunca saem do papel
-- ❌ Infraestrutura legada que consome 60% do orçamento tech
-- ❌ Falta de pessoas que entendem o full-stack: do produto até a nuvem
+## Selected work
 
-**Eu reduzo isso para semanas, não meses.**
+### Opportunity Cockpit
+**AI-assisted opportunity decision system — private core / public showcase in preparation**
 
----
+A system for discovering, normalizing, evaluating, and prioritizing professional opportunities.
 
-## O Que Estou Construindo
+Core concerns include:
+- multi-source opportunity intake;
+- structured extraction and normalization;
+- evidence-based fit analysis;
+- evaluation and benchmark records;
+- provider-neutral AI boundaries;
+- human approval before external actions;
+- operational outcomes and feedback loops.
 
-### 🤖 **Wii Group** - Produtos de IA em Produção
+### CP Engineering
+**Engineering project cockpit — private core / public showcase in preparation**
 
-**Não são conceitos. São soluções rodando hoje, gerando valor hoje.**
+A software system for engineering project work with structured requirements, risk, safety, cost, pricing, revisions, and decision readiness.
 
-| Produto | Problema | Impacto |
-|---------|----------|--------|
-| **Alma-Ego** | Decisões viciadas em viés | Sistema ético com Gemini AI |
-| **Assistente-de-Compras-IA** | Processos manuais procurement | ROI 40% em 3 meses |
-| **AdvocacIA** | Estratégia sem dados | IA acelerando decisões B2B |
-| **PH-ICE** | Apps desconectados | Ecossistema integrado end-to-end |
+The project is being developed to connect engineering methodology with modern software and AI-assisted workflows.
 
-### 💰 **Números Reais**
-- **Velocidade:** MVP → Produção = 3-4 semanas
-- **Escala:** 0 a 100k requisições/dia em Google Cloud
-- **Eficiência:** 60% redução de custos vs. concorrentes
-- **Satisfação:** 4.8/5 com clientes enterprise
+### Wii Ops Center
+**Agentic operations and governance system — private core**
 
----
+An internal operations system used to coordinate projects, agents, automation, verification, quality gates, evidence, and controlled execution.
 
-## Como Trabalho
+The production core remains private. A sanitized public starter/showcase is being prepared separately.
 
-### 1️⃣ **Foco em Resultado, Não em "Bonito"
-Se funciona e gera valor, vai pra produção. Tecnologia perfeita que ninguém usa = desperdício.
+### Real Estate Pre-Sales
+**Public application**
 
-### 2️⃣ **Iteração Agressiva**
-- Semana 1: MVP rodando
-- Semana 2-3: Feedback real de usuários
-- Semana 4+: Scale com dados
+A Next.js project exploring B2B real-estate pre-sales workflows and decision support.
 
-### 3️⃣ **Automação Total**
-Se é repetitivo, automatizo. Mesmo que leve 3 dias pra economizar 2h/semana, é investimento.
+Repository: [pre-venda-imobiliaria-indaiatuba](https://github.com/Flavio459/pre-venda-imobiliaria-indaiatuba)
 
-### 4️⃣ **Transparência com Dados**
-- Quando falho, publico por quê
-- Quando acerto, compartilho como
-- Métricas são públicas, não opinião
+## Engineering principles
 
----
+- Evidence before claims.
+- Human gates for consequential external actions.
+- Simple architecture until scale or complexity justifies more.
+- Reversible changes and explicit rollback paths.
+- Tests and verification before declaring work complete.
+- Automation should reduce manual work without hiding operational risk.
 
-## Tech Stack (O Que Funciona)
+## Technologies used across current projects
 
-**Python 🐍** - IA | APIs backend | Data science
+Python · TypeScript · React / Next.js · FastAPI · Docker · GitHub Actions · SQLite · Supabase · Playwright · AI/LLM integrations
 
-**TypeScript + React ⚠️** - Interfaces que convertem | Performance first
+Technology is selected per problem; the portfolio is organized around systems and outcomes rather than tool lists.
 
-**Google Cloud ☁️** - Vertex AI | Cloud Run | BigQuery
+## Current portfolio direction
 
-**Docker + Automação 🐳** - Deploy em 1 clique
+The public GitHub is being reorganized around a small number of evidence-backed case studies:
 
----
+1. Opportunity Cockpit
+2. CP Engineering
+3. Wii Ops Starter
+4. Applied business automation
 
-## Não Estou Aqui Para
+Private repositories may contain operational data, personal information, infrastructure details, or proprietary implementation and are intentionally not public.
 
-❌ "Consultoria bonita" sem resultado  
-❌ Vender cursos de IA sem produto em produção  
-❌ Falar de ML sem aplicação real  
-❌ Esperar "condições ideais"  
+## Contact
 
-**Estou aqui para:**  
-✅ Produtos que funcionam  
-✅ Código que escala  
-✅ ROI mensurável  
-✅ Execução rápida  
+- GitHub: [@Flavio459](https://github.com/Flavio459)
+- LinkedIn: [Flávio Souza Barros](https://linkedin.com/in/flavio-souza-barros)
 
 ---
 
-## Por Que Diferente
-
-**A maioria fala. Eu construo.**
-
-29 repositórios aqui não são portfolio:
-- 4 produtos em produção
-- 15+ ferramentas internas otimizadas
-- 10+ testes de mercado com dados
-
-Cada linha de código tem história. Cada projeto tem métrica.
-
----
-
-## O Que Procuro
-
-✅ Problemas específicos (não "vamos conversar sobre IA")  
-✅ Empresas prontas pra scale (não pilotos eternos)  
-✅ Parceiros que entendem: velocidade = vantagem competitiva  
-✅ Equity/ROI alignment (quando você ganha, eu ganho)  
-
-❌ Não para: corporações que adoram reuniões, projetos sem métrica, "tecnologia pela tecnologia"
-
----
-
-## Onde Me Encontrar
-
-💼 **LinkedIn:** [@Flavio459](https://linkedin.com/in/flavio-souza-barros) - Estratégia sem hype  
-🐙 **GitHub:** [@Flavio459](https://github.com/flavio459) - Código que funciona  
-📧 **Email:** flaviobarros459@outlook.com - Conversa séria
-
----
-
-## O Que Aprendi
-
-**Funcionou:**  
-Começar pelo problema, não solução | Medir tudo | Usuários reais > focus groups | Automatizar repetição
-
-**Não funcionou:**  
-Esperar "tecnologia perfeita" | Projetos sem deadline | Não cobrar valor real | Projetos "bacanas" que ninguém usa
-
----
-
-## Status 2025
-
-🚨0 **Explorando:** Agents com memória persistente + RAG  
-🚧9 **Construindo:** Plataforma de IA acessível pra PMEs  
-🚧a **Escalando:** Automação procurement B2B (3+ clientes)  
-🚨0 **Investigando:** Bicameral mind theory em decisão
-
----
-
-## Métricas Que Importam
-
-```
-29 Repositórios | 73 Contribuições/Ano | 4 Produtos Ativo
----
-O QUE IMPORTA:
-- Revenue gerado
-- MVP → Produção (tempo)
-- Redução de custos
-- Satisfação mensurável
-
-O QUE NÃO IMPORTA:
-- Seguidores, likes, vanity metrics
-```
-
----
-
-## Filosofia
-
-> **A realidade é o juiz final.**
-
-Dados não mentem. Mercado não mente. Usuários não mentem.
-
-- **Velocidade > Perfeição** (quando há deadline)
-- **Simplicidade > Complexidade** (sempre que possível)
-- **Resultado > Processo** (processo que funciona)
-- **Ação > Análise** (em tempos de mudança rápida)
-
-Tecnologia é ferramenta. O impacto é tudo.
-
----
-
-**Última atualização:** Dezembro 2024  
-**Status:** Acelerando. Sem freio. Q1 2025 é o deadline.
+Last reviewed: September 2026.
