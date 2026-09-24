@@ -2,51 +2,72 @@
 
 **Engineering × AI × Automation × Project Systems**
 
-I build systems that turn operational problems into structured workflows, decision tools, and automation with explicit evidence, review, and human control.
+I build systems that turn operational problems into structured workflows, decision tools, and automation with explicit evidence, verification, and human control.
 
-My current work sits at the intersection of engineering, project execution, AI-assisted decision systems, and software automation.
+My work combines engineering reasoning, project execution, AI-assisted decision systems, and software automation.
 
-## Selected work
+## Featured portfolio
 
-### Opportunity Cockpit
-**AI-assisted opportunity decision system — private core + public showcase**
+| Project | What it demonstrates | Live |
+|---|---|---|
+| [Opportunity Cockpit](https://github.com/Flavio459/opportunity-cockpit-showcase) | AI-assisted analysis, evidence, uncertainty, verification, Human Gate | [Demo](https://flavio459.github.io/opportunity-cockpit-showcase/) |
+| [CP Engineering](https://github.com/Flavio459/cp-engineering-showcase) | Requirements, scope, engineering risk, cost, quote, revision and decision readiness | [Demo](https://flavio459.github.io/cp-engineering-showcase/) |
+| [Wii Ops Starter](https://github.com/Flavio459/wii-ops-starter-showcase) | Agentic operations, proportional autonomy, verification, evidence-driven closure | [Demo](https://flavio459.github.io/wii-ops-starter-showcase/) |
 
-A system for discovering, normalizing, evaluating, and prioritizing professional opportunities with explicit evidence, uncertainty handling, verification and human control.
+These public repositories are intentionally separated from their private operational cores. They use synthetic data and exclude credentials, personal applications, customer information, proprietary thresholds, private infrastructure, and protected technical material.
 
-Public showcase:
-- [Repository](https://github.com/Flavio459/opportunity-cockpit-showcase)
-- [Live demo](https://flavio459.github.io/opportunity-cockpit-showcase/)
+## Opportunity Cockpit
 
-The public demo uses synthetic data only. Personal applications, scoring strategy, traces, benchmarks, credentials and production internals remain private.
+**AI-assisted opportunity decision system**
 
-### CP Engineering
-**Engineering project cockpit — private core + public showcase**
+A system for discovering, normalizing, evaluating, and prioritizing professional opportunities without converting missing information into invented facts.
 
-A traceable engineering workflow connecting requirements, scope, risk, concept selection, cost, commercial quote, revisions and decision readiness.
+Key ideas:
+- structured opportunity intake;
+- evidence-aware fit analysis;
+- explicit unknown states;
+- independent verification;
+- Human Gate before external action.
 
-Public showcase:
-- [Repository](https://github.com/Flavio459/cp-engineering-showcase)
-- [Live demo](https://flavio459.github.io/cp-engineering-showcase/)
+[Repository](https://github.com/Flavio459/opportunity-cockpit-showcase) · [Live demo](https://flavio459.github.io/opportunity-cockpit-showcase/)
 
-The public demo uses synthetic engineering data only. Customer data, drawings, private infrastructure, proprietary decision logic and protected technical reference material remain private.
+## CP Engineering
 
-### Wii Ops Center
-**Agentic operations and governance system — private core + public showcase**
+**Traceable engineering project cockpit**
 
-An internal control plane for coordinating projects, agents, automation, verification, quality gates, evidence and controlled execution.
+A workflow connecting requirements, scope, risks, concept selection, internal cost, commercial quote, project revisions, and decision readiness.
 
-Public showcase:
-- [Repository](https://github.com/Flavio459/wii-ops-starter-showcase)
-- [Live demo](https://flavio459.github.io/wii-ops-starter-showcase/)
+Key ideas:
+- engineering information provenance;
+- risk as decision support rather than automatic approval;
+- cost separated from sale price;
+- revision-aware decisions;
+- qualified human decision gate.
 
-The showcase demonstrates preflight, proportional autonomy, risk/authority separation, independent verification and evidence-driven closure using synthetic tasks. Canonical routing policies, providers, runners, credentials and operational governance remain private.
+[Repository](https://github.com/Flavio459/cp-engineering-showcase) · [Live demo](https://flavio459.github.io/cp-engineering-showcase/)
+
+## Wii Ops Center
+
+**Agentic operations and governance system**
+
+An internal control plane for coordinating projects, agents, automation, verification, quality gates, evidence, and controlled execution.
+
+The public starter demonstrates:
+- preflight before execution;
+- separation of change risk from execution authority;
+- proportional autonomy;
+- worker/verifier separation;
+- evidence-driven closure.
+
+[Repository](https://github.com/Flavio459/wii-ops-starter-showcase) · [Live demo](https://flavio459.github.io/wii-ops-starter-showcase/)
+
+## Applied business project
 
 ### Real Estate Pre-Sales
-**Public application**
 
-A Next.js project exploring B2B real-estate pre-sales workflows and decision support.
+A public Next.js application exploring B2B real-estate pre-sales workflows and decision support.
 
-Repository: [pre-venda-imobiliaria-indaiatuba](https://github.com/Flavio459/pre-venda-imobiliaria-indaiatuba)
+[Repository](https://github.com/Flavio459/pre-venda-imobiliaria-indaiatuba) · [Live app](https://pre-venda-imobiliaria-indaiatuba.vercel.app)
 
 ## Engineering principles
 
@@ -63,16 +84,11 @@ Python · TypeScript · React / Next.js · FastAPI · Docker · GitHub Actions �
 
 Technology is selected per problem; the portfolio is organized around systems and outcomes rather than tool lists.
 
-## Current portfolio direction
+## Public / private boundary
 
-The public GitHub is being reorganized around a small number of evidence-backed case studies:
+Public GitHub contains selected demonstrations and applied projects. Private repositories may contain operational data, project history, infrastructure details, personal information, customer information, or proprietary implementation and remain intentionally private.
 
-1. [Opportunity Cockpit](https://github.com/Flavio459/opportunity-cockpit-showcase)
-2. [CP Engineering](https://github.com/Flavio459/cp-engineering-showcase)
-3. [Wii Ops Starter](https://github.com/Flavio459/wii-ops-starter-showcase)
-4. Applied business automation
-
-Private repositories may contain operational data, personal information, infrastructure details, or proprietary implementation and are intentionally not public.
+Forked repositories are kept for experimentation and reference and are not presented as original portfolio work.
 
 ## Contact
 
