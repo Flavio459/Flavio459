@@ -31,11 +31,15 @@ Public showcase:
 The public demo uses synthetic engineering data only. Customer data, drawings, private infrastructure, proprietary decision logic and protected technical reference material remain private.
 
 ### Wii Ops Center
-**Agentic operations and governance system — private core**
+**Agentic operations and governance system — private core + public showcase**
 
-An internal operations system used to coordinate projects, agents, automation, verification, quality gates, evidence, and controlled execution.
+An internal control plane for coordinating projects, agents, automation, verification, quality gates, evidence and controlled execution.
 
-The production core remains private. A sanitized public starter/showcase is being prepared separately.
+Public showcase:
+- [Repository](https://github.com/Flavio459/wii-ops-starter-showcase)
+- [Live demo](https://flavio459.github.io/wii-ops-starter-showcase/)
+
+The showcase demonstrates preflight, proportional autonomy, risk/authority separation, independent verification and evidence-driven closure using synthetic tasks. Canonical routing policies, providers, runners, credentials and operational governance remain private.
 
 ### Real Estate Pre-Sales
 **Public application**
@@ -65,7 +69,7 @@ The public GitHub is being reorganized around a small number of evidence-backed 
 
 1. [Opportunity Cockpit](https://github.com/Flavio459/opportunity-cockpit-showcase)
 2. [CP Engineering](https://github.com/Flavio459/cp-engineering-showcase)
-3. Wii Ops Starter
+3. [Wii Ops Starter](https://github.com/Flavio459/wii-ops-starter-showcase)
 4. Applied business automation
 
 Private repositories may contain operational data, personal information, infrastructure details, or proprietary implementation and are intentionally not public.
