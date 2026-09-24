@@ -9,18 +9,15 @@ My current work sits at the intersection of engineering, project execution, AI-a
 ## Selected work
 
 ### Opportunity Cockpit
-**AI-assisted opportunity decision system — private core / public showcase in preparation**
+**AI-assisted opportunity decision system — private core + public showcase**
 
-A system for discovering, normalizing, evaluating, and prioritizing professional opportunities.
+A system for discovering, normalizing, evaluating, and prioritizing professional opportunities with explicit evidence, uncertainty handling, verification and human control.
 
-Core concerns include:
-- multi-source opportunity intake;
-- structured extraction and normalization;
-- evidence-based fit analysis;
-- evaluation and benchmark records;
-- provider-neutral AI boundaries;
-- human approval before external actions;
-- operational outcomes and feedback loops.
+Public showcase:
+- [Repository](https://github.com/Flavio459/opportunity-cockpit-showcase)
+- [Live demo](https://flavio459.github.io/opportunity-cockpit-showcase/)
+
+The public demo uses synthetic data only. Personal applications, scoring strategy, traces, benchmarks, credentials and production internals remain private.
 
 ### CP Engineering
 **Engineering project cockpit — private core / public showcase in preparation**
@@ -62,7 +59,7 @@ Technology is selected per problem; the portfolio is organized around systems an
 
 The public GitHub is being reorganized around a small number of evidence-backed case studies:
 
-1. Opportunity Cockpit
+1. [Opportunity Cockpit](https://github.com/Flavio459/opportunity-cockpit-showcase)
 2. CP Engineering
 3. Wii Ops Starter
 4. Applied business automation
