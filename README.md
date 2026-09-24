@@ -20,11 +20,15 @@ Public showcase:
 The public demo uses synthetic data only. Personal applications, scoring strategy, traces, benchmarks, credentials and production internals remain private.
 
 ### CP Engineering
-**Engineering project cockpit — private core / public showcase in preparation**
+**Engineering project cockpit — private core + public showcase**
 
-A software system for engineering project work with structured requirements, risk, safety, cost, pricing, revisions, and decision readiness.
+A traceable engineering workflow connecting requirements, scope, risk, concept selection, cost, commercial quote, revisions and decision readiness.
 
-The project is being developed to connect engineering methodology with modern software and AI-assisted workflows.
+Public showcase:
+- [Repository](https://github.com/Flavio459/cp-engineering-showcase)
+- [Live demo](https://flavio459.github.io/cp-engineering-showcase/)
+
+The public demo uses synthetic engineering data only. Customer data, drawings, private infrastructure, proprietary decision logic and protected technical reference material remain private.
 
 ### Wii Ops Center
 **Agentic operations and governance system — private core**
@@ -60,7 +64,7 @@ Technology is selected per problem; the portfolio is organized around systems an
 The public GitHub is being reorganized around a small number of evidence-backed case studies:
 
 1. [Opportunity Cockpit](https://github.com/Flavio459/opportunity-cockpit-showcase)
-2. CP Engineering
+2. [CP Engineering](https://github.com/Flavio459/cp-engineering-showcase)
 3. Wii Ops Starter
 4. Applied business automation
 
